@@ -1,0 +1,4 @@
+/home/d_khalimov/Projects/tsctrl/build-tsctrl-Desktop_Qt_6_2_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/d_khalimov/Projects/tsctrl/build-tsctrl-Desktop_Qt_6_2_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/d_khalimov/Projects/tsctrl/build-tsctrl-Desktop_Qt_6_2_3_GCC_64bit-Debug/CMakeFiles/tsctrl.analyze.dir
+/home/d_khalimov/Projects/tsctrl/build-tsctrl-Desktop_Qt_6_2_3_GCC_64bit-Debug/CMakeFiles/tsctrl.dir
