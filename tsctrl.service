@@ -1,0 +1,14 @@
+[Unit]
+Description=tsctrl
+After=network.target
+
+[Service]
+WorkingDirectory=/home/d_khalimov/Projects/tsctrl/build-tsctrl-Desktop_Qt_6_2_3_GCC_64bit-Debug
+ExecStart=/home/d_khalimov/Projects/tsctrl/build-tsctrl-Desktop_Qt_6_2_3_GCC_64bit-Debug/tsctrl
+Restart=always
+RestartSec=1
+PrivateDevices=on
+NoNewPrivileges=on
+
+[Install]
+WantedBy=multi-user.target
